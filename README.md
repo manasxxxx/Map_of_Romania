@@ -27,3 +27,6 @@ Navigating Using Search Algorithms
 # Output:
 
 ![image](https://github.com/user-attachments/assets/bd5cfd16-75e6-4fc3-83ac-ee122915c2ce)
+
+![image](https://github.com/user-attachments/assets/65812590-bbfa-46d1-87ed-fe22d8def172)
+
