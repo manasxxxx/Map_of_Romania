@@ -39,3 +39,13 @@ Uniform Cost Search (UCS) is a search algorithm that extends BFS by incorporatin
 
 ![image](https://github.com/user-attachments/assets/65812590-bbfa-46d1-87ed-fe22d8def172)
 
+# COMBINED CODE (BFS, DFS and UCS) - To find the Most optimal route
+
+# OUTPUT:
+
+![image](https://github.com/user-attachments/assets/3c218141-ec8b-49d5-9909-ca644be1aa61)
+
+![image](https://github.com/user-attachments/assets/3e9b237e-c8f1-454a-90cf-dd6a67d2b6e0)
+
+
+
