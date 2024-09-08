@@ -26,8 +26,6 @@ Depth-First Search (DFS) is another fundamental graph traversal algorithm, which
 
 ![image](https://github.com/user-attachments/assets/55c3ebde-d851-447d-be95-5adeb7fddae1)
 
-![DFS](https://github.com/user-attachments/assets/72ab6226-f64c-4829-86d9-d69a5ea57f86)
-
 
 # UCS IMPLEMENTATION
 
